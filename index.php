@@ -1,9 +1,9 @@
 <?php
 
 
-header("Location: http://www.hellas-shipping.com.br/public/index.php/en/home");
+//header("Location: http://www.hellas-shipping.com.br/public/index.php/en/home");
 
-exit;
+//exit;
 
 $uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 
